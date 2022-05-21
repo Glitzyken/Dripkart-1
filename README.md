@@ -1,6 +1,6 @@
 # dripkart
 
-An Ecommerce application built with Vuejs
+An Ecommerce application built with Vuejs. It's awesome!
 
 
 ## Project setup
